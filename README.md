@@ -6,7 +6,7 @@
 
 ### Programming languages that i'm currently learning
 
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  <img align="center" alt="antonio-Js" height="40" width="40" src="https://i.ibb.co/0FMhVG1/python.png">
 
 ### My status
 
