@@ -4,7 +4,7 @@
 - 🚀 I'm working with VS Code and Python
 - 💻 Learning how to learn
 
-### Programming languages that i'm learning
+### Programming languages that i'm currently learning
 
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
