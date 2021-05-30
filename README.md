@@ -10,8 +10,8 @@
 
 ### My status
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=janpeto&theme=gotham&show_icons=true&border_radius=15&hide_border=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=janpeto&show_icons=true&border_radius=15&hide_border=true&bg_color=0d1117&title_color=fff&text_color=fff&icon_color=fff)
 
 ### Most used programming languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janpeto&layout=compact&theme=gotham&border_radius=15&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janpeto&layout=compact&border_radius=15&hide_border=true&bg_color=0d1117&title_color=fff&text_color=fff)
