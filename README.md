@@ -6,8 +6,8 @@
 
 ### Programming languages that i'm currently learning
 
-  <img align="center" alt="janPeto" height="40" width="40" src="https://i.ibb.co/0FMhVG1/python.png">
   <img align="center" alt="janPeto" height="40" width="40" src="https://raw.githubusercontent.com/MatheusHonorato/curso-front-end-marco-bruno/master/html-css-js.png">
+  
 
 ### My status
 
