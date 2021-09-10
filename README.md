@@ -6,7 +6,7 @@
 
 ### Programming languages that i'm currently learning
 
-  <img align="center" alt="janPeto" height="40" width="40" src="https://raw.githubusercontent.com/MatheusHonorato/curso-front-end-marco-bruno/master/html-css-js.png">
+  <img align="center" alt="janPeto" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png">
   
 
 ### My status
