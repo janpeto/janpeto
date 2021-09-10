@@ -1,12 +1,12 @@
 ### Welcome to my crazy world, I'm jan Peto!
 
 ## I'm just another person trying to be a programmer
-- 🚀 I'm working with VS Code and Python
+- 🚀 I'm working with VS Code
 - 💻 Learning how to learn
 
 ### Programming languages that i'm currently learning
 
-  <img align="center" alt="janPeto" height="40" width="40" src="https://i.ibb.co/0FMhVG1/python.png">
+  <img align="center" alt="janPeto" height="40" width="40" src="https://raw.githubusercontent.com/MatheusHonorato/curso-front-end-marco-bruno/master/html-css-js.png">
 
 ### My status
 
