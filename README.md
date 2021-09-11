@@ -6,7 +6,7 @@
 
 ### Things that i'm currently learning
 
- <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /><img height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+ <img height="40" width="40" src="https://lh4.googleusercontent.com/5a77coGfWaVe48EneYH_bvbiuvlE9avLcKIqB9_iYxt1JYMAXRb6Q4wr8z3xpSvBCtNNcV2hjDvQRGQG1TyA=w1360-h645" />  <img height="40" width="40" src="https://lh5.googleusercontent.com/-4rCHEYj0f0KKOQq-PjI1_swgLk2lH4pKT34yTBuVX2ZeeGiEQnFNHGZRJM5bKUF-VL--27Twfluzxqx3PtX=w1360-h645" /> <img height="40" width="40" src="https://lh3.googleusercontent.com/28RYwPcNsIG0f_umlBIv4ARxXZmhxBF8Zz47dJcnMA0gJx3Tmw7GTy4QK5ggAhByMgHqcBOKzNvqXCriYtbS=w1360-h645" /> <img height="40" width="40" src="https://lh4.googleusercontent.com/u9IJMBU172QHeWM64E853n3Cl_idEh0PPjNkh6FiavthJdfyO0x-uppbtxchTJ8OwL1McqCZrXyG2X6Cix4b=w1360-h645" /><img height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
    
   
 
